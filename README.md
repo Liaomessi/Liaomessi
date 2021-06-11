@@ -16,6 +16,7 @@
 ### 🛠 技术栈 | Tech Stack
 
 - 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  ![Spark](https://img.shields.io/badge/%E2%80%BB-Spark-yellow)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-blue?style=flat)
