@@ -7,9 +7,9 @@
 
 ### I'm Qingbo Yang
 
-- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
+- A software engineer
 - 🌱 Currently working in Shanghai, China.
-- 💬 Ask me about Java, TypeScript and my projects on [MRqbyang@163.com](mailto:MRqbyang@163.com)
+- 💬 Ask me about Java, Spark, TypeScript and my projects on [MRqbyang@163.com](mailto:MRqbyang@163.com)
 - ⭐ You may like [Qingbo's Blog](http://www.qingbo.info) 
 - ⚡ Fun fact: Data Analysis📊
 
